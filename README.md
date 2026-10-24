@@ -1,16 +1,20 @@
 EMAIL SCHEDULER DASHBOARD --- FRONTEND
 
-FEATURES: LOGIN PAGE: A basic login page for entering email and password.
+FEATURES:
 
-DASHBOARD: Displays email records in a clean organized layout 
+Login Page: A basic login page for entering email and password.
 
-SCHEDULED EMAILS: View emails that are scheduledfor future delivery. 
+Dashboard: Displays email records in a clean organized layout 
 
-SENT EMAILs: View Email marked as sent. 
+Scheduled Email: View emails that are scheduled for future delivery. 
 
-SIDEBAR NAVIGATION: Navigate between dashboard section and access logout.
+Sent Emails: View Email marked as sent. 
 
-Tech Stack Used: React TypeScript Tailwind CSS Lucide React icons
+Sidebar navigation: Navigate between dashboard section and access logout.
+
+
+Tech Stack Used: 
+React TypeScript Tailwind CSS Lucide React icons
 
 
 installation:

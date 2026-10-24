@@ -6,6 +6,7 @@ Tech Stack Used: React TypeScript Tailwind CSS Lucide React icons
 
 installation:
 
-git clone repository_url
-cd project_folder 3.npm install
-npm run dev
+1.git clone repository_url
+2.cd project_folder 
+3.npm install
+4.npm run dev
